@@ -11,8 +11,10 @@ This Java application is a simple Library Management System that allows users to
 ## Requirements
 - Java Development Kit (JDK) installed.
 - IDE or text editor to run the Java application (e.g., IntelliJ IDEA, Eclipse, VS Code).
-Code Overview
-The LibraryManagementSystemGUI class provides a GUI for managing a library's inventory. The GUI includes labels, text fields, and buttons for adding and removing books, as well as a table to display the current list of books.
+
+## Code Overview
+- JavaApplication50 is the main class
+- The LibraryManagementSystemGUI class provides a GUI for managing a library's inventory. The GUI includes labels, text fields, and buttons for adding and removing books, as well as a table to display the current list of books.
 
 ## Main Components
 - Table: Displays the list of books in the inventory with columns for ISBN, title, author, publisher, and year.
